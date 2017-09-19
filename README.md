@@ -10,8 +10,8 @@ Start the app
 
 Browse the application
 
-http://localhost:8080/#/
+> http://localhost:8080/#/
 
-http://localhost:8080/#/users
+> http://localhost:8080/#/users
 
-http://localhost:8080/#/user/1
+> http://localhost:8080/#/user/1
